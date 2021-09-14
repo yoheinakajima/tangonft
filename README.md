@@ -16,6 +16,8 @@ In the end, I just want to see cool stuff come to life. Rad if I can be part of 
 
 I'm just releasing this now, in it's raw format after hacking away at it for two nights (~6 hours), for posterity. Don't worry, someone is already working on switching from php to react. We can go from there.
 
+And yes, I've had people suggest moving message on-chain to make this fully decentralized and embeddable anywhere. I'm down.
+
 # Contribute
 
 In the meantime, join the <a href="https://discord.gg/YSqMfAnqzX" target="">PixelBeasts discord</a>, where we talk about this project. It's VCs, developers, artists, and collectors - all with an interest in building and experimenting with new tools.
