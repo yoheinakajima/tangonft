@@ -14,7 +14,15 @@ In the end, I just want to see cool stuff come to life. Rad if I can be part of 
 
 # Build Status
 
-I'm just releasing this now, in it's raw format after hacking away at it for two nights (~6 hours), for posterity. Don't worry, someone is already working on switching from php to react. We can go from there.
+I'm just releasing this now, in it's raw format after hacking away at it for two nights (~6 hours), for posterity. Don't worry, someone is already working on switching from php to react. We'll go from there. A few other obvious things:
+
+- Escaping characters in messages.
+- Message functions (URLs, emojis, etc.)
+
+Maybe?
+
+- Threads/replies
+- 1:1 messaging
 
 And yes, I've had people suggest moving messages on-chain to make this fully decentralized and embeddable anywhere. I'm down.
 
