@@ -16,6 +16,7 @@ In the end, I just want to see cool stuff come to life. Rad if I can be part of 
 
 I'm just releasing this now, in it's raw format after hacking away at it for two nights (~6 hours), for posterity. Don't worry, someone is already working on switching from php to react. We'll go from there. A few other obvious things:
 
+- Make it deployable from here.
 - Escaping characters in messages.
 - Message functions (URLs, emojis, etc.)
 
