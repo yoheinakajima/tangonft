@@ -1,0 +1,28 @@
+{
+  "name": "tangonft",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.4.0",
+    "@emotion/react": "^11.4.1",
+    "@emotion/server": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
+    "@mui/icons-material": "^5.0.0-rc.1",
+    "@mui/material": "^5.0.0-rc.1",
+    "@mui/system": "^5.0.0-rc.1",
+    "clsx": "^1.1.1",
+    "ethers": "^5.4.6",
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "swr": "^1.0.1"
+  },
+  "devDependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
