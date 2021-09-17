@@ -14,7 +14,7 @@ import {
     Toolbar,
     Typography,
 } from '@mui/material';
-import { alpha, makeStyles } from '@material-ui/styles';
+import { alpha, makeStyles } from '@mui/styles';
 import { useEffect, useState } from 'react';
 
 const useStyles = makeStyles((theme) => ({
